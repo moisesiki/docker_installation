@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "************** Installation complète de docker & Docker compose ************************"
 apt-get update -y
 apt-get install ca-certificates curl gnupg -y
 
